@@ -30,8 +30,8 @@ O dashboard foi desenvolvido para permitir uma exploração profunda dos dados d
 **Acesse o dashboard interativo online aqui:**
 https://app.powerbi.com/groups/me/reports/64265678-f170-42cd-89c5-cc1d45c29cf9?ctid=0d3cef8e-0135-427c-ad27-9dd7a0f4222a&pbi_source=linkShare
 
-**Versão em vídeo para facilitar acesso:**
-GERAR VÍDEO E COLAR O LINK AQUI
+**Versão em PDF para facilitar acesso:**
+https://drive.google.com/file/d/13X2RobBv8wlsJXo84GH3UkBIqgdoV1_W/view?usp=sharing
 
 ## ✨ Insights Chave e Resultados
 
